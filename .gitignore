@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dll
+*.dylib
+
+# Environment files
+.env
+.venv/
+env/
+ENV/
+env.bak/
+venv/
+*.conda
+*.env
+*.sh
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Package metadata
+*.egg-info/
+*.egg
+dist/
+build/
+
+# VS Code and other IDE configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and outputs
+*.log
+
+# Environment lock files
+conda-meta/
